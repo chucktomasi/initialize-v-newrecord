@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e08c77b067112200bb2c5bb557415a6d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_bookmark">
+    <sys_ui_bookmark action="INSERT_OR_UPDATE">
+        <auto_add>false</auto_add>
+        <color>blue</color>
+        <flyout>false</flyout>
+        <flyout_sizing>auto</flyout_sizing>
+        <flyout_width/>
+        <group/>
+        <icon>list</icon>
+        <image/>
+        <module display_value="Mariner Data">9117c93067012200ca735bb557415a4f</module>
+        <open_in_form>false</open_in_form>
+        <order>4</order>
+        <pinned>true</pinned>
+        <separator>false</separator>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-15 15:28:41</sys_created_on>
+        <sys_id>e08c77b067112200bb2c5bb557415a6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-15 15:28:41</sys_updated_on>
+        <title>Mariner - Mariner Data</title>
+        <uncancelable>false</uncancelable>
+        <url>x_mariner_data_list.do?sysparm_userpref_module=9117c93067012200ca735bb557415a4f</url>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <window_name/>
+    </sys_ui_bookmark>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-08-15 15:29:11</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a39c77b067112200bb2c5bb557415a6f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2016-08-15 08:28:41</sys_name>
+        <sys_package display_value="Mariner" source="x_mariner">c017053067012200ca735bb557415aa1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Mariner">c017053067012200ca735bb557415aa1</sys_scope>
+        <sys_update_name>sys_metadata_link_a39c77b067112200bb2c5bb557415a6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-15 15:29:11</sys_updated_on>
+        <tablename>sys_ui_bookmark</tablename>
+    </sys_metadata_link>
+</record_update>

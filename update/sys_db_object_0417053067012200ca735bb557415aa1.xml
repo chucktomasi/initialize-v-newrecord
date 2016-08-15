@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-02 16:00:17</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0417053067012200ca735bb557415aa1</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Mariner Data</sys_name>

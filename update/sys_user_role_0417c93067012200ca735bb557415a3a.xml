@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-02 16:00:16</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0417c93067012200ca735bb557415a3a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_mariner.user</sys_name>
