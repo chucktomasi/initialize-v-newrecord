@@ -3,13 +3,13 @@
     <element label="Mariner Data" max_length="40" name="x_mariner_data" type="collection">
         <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
         <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
+        <element choice="1" default="new" label="State" max_length="40" name="state" type="choice">
             <choice>
-                <element label="New" sequence="0" value="1"/>
-                <element label="Review" sequence="1" value="2"/>
-                <element label="Approval" sequence="2" value="3"/>
-                <element label="Active" sequence="3" value="4"/>
-                <element label="Closed" sequence="4" value="5"/>
+                <element label="New" sequence="0" value="new"/>
+                <element label="Review" sequence="1" value="review"/>
+                <element label="Approval" sequence="2" value="approval"/>
+                <element label="Active" sequence="3" value="active"/>
+                <element label="Closed" sequence="4" value="closed"/>
             </choice>
         </element>
         <element label="Title" max_length="40" name="title" type="string"/>
